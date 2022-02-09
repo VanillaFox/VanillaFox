@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Maria 🦊 
+## I'm a Student and Developer
++ 🎮 I like to study everything, especially the gaming industry: creating games from idea to implementation
++ 🖥️ I'm currently studying cryptography
++ ✨ Fun fact: I like taking pictures and drinking coffee
 
-<!--
-**VanillaFox/VanillaFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages and Tools
 
-Here are some ideas to get you started:
+<img align="center" alt="Fox-c++" height="55" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="center" alt="Fox-c" height="55" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+<img align="center" alt="Fox-python" height="55" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="center" alt="Fox-matlib" height="55" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-line.svg" />
+<img align="center" alt="Fox-opengl" height="55" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
+<img align="center" alt="Fox-numpy" height="55" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img align="center" alt="Fox-git" height="55" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+<img align="center" alt="Fox-linux" height="55" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="center" alt="Fox-vscode" height="55" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanillaFox&theme=material-palenight&show_icons=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanillaFox&theme=material-palenight&layout=compact&hide=Scheme">
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
