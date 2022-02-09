@@ -16,7 +16,7 @@
 <img align="left" alt="Fox-linux" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img alt="Fox-vscode" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanillaFox&theme=material-palenight&show_icons=true">
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=VanillaFox&theme=material-palenight&show_icons=true">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanillaFox&theme=material-palenight&layout=compact&hide=Scheme">
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
