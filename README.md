@@ -1,8 +1,8 @@
 # Hi there, I'm Maria 🦊 
 ## I'm a Student and Developer
 + 🎮 I like to study everything, especially the gaming industry: creating games from idea to implementation
-+ 🖥️ I'm currently studying cryptography
-+ ☕ I like drinking coffee
++ 🖥️ I'm currently studying animation
++ ☕ I like to drink coffee
 
 ## Languages and Tools
 
