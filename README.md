@@ -2,7 +2,7 @@
 ## I'm a Student and Developer
 + 🎮 I like to study everything, especially the gaming industry: creating games from idea to implementation
 + 🖥️ I'm currently studying cryptography
-+ ✨ Fun fact: I like taking pictures and drinking coffee
++ ☕ I like drinking coffee
 
 ## Languages and Tools
 
