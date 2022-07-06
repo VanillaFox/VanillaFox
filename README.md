@@ -22,4 +22,4 @@
 <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=VanillaFox&theme=material-palenight&show_icons=true">
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanillaFox&theme=material-palenight&layout=compact&hide=Scheme">
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/VanillaFox/VanillaFox/blob/output/github-contribution-grid-snake.svg)
